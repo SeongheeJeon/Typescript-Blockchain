@@ -1,5 +1,15 @@
-### nomadcoders lecture - typescript for beginners(blockchain)
+# nomadcoders lecture - typescript for beginners(blockchain)
 
+[강의소개](https://nomadcoders.co/typescript-for-beginners)
+
+## 배우는 이론
+- Types
+- Interfaces
+- Classes
+- Polymorphism
+- Generics
+- Call Signatures
+- JSDoc
 
 # 1.3 Who should take this course
 
