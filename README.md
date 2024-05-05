@@ -1,3 +1,6 @@
+### nomadcoders lecture - typescript for beginners(blockchain)
+
+
 # 1.3 Who should take this course
 
 - JS개발자가 생산성 높이고 버그 줄이고 싶을 때
